@@ -35,7 +35,7 @@ submit.addEventListener("click", (e) => {
     getWeather(city.value);
 });
 
-getWeather("Goa");
+getWeather("Delhi");
 
 //For the Very Noida in the list
 
